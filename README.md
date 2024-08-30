@@ -3,9 +3,9 @@
 <br />
 <h1 align="center">Hi 👋, I'm Danar Mas Saputra</h1> 
 <h3 align="center">A passionate full Stack developer and Game developer from Indonesia</h3>
+![RESOURCES (1)](https://github.com/user-attachments/assets/169ca46e-568c-4eb7-b89a-1a3d979eeb4b)
 
 
-![LogoGameDAMASSDEV-removebg-preview](https://github.com/user-attachments/assets/bde1447f-1a7f-46f6-9151-9f2d8d27ee39)
 
 
 
