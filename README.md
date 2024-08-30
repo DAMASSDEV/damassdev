@@ -5,7 +5,8 @@
 <h3 align="center">A passionate full Stack developer and Game developer from Indonesia</h3>
 
 
-![RESOURCES](https://github.com/user-attachments/assets/e8b2c5ed-b3f0-47d7-b1c2-febcf51380ee)
+![LogoGameDAMASSDEV-removebg-preview](https://github.com/user-attachments/assets/bde1447f-1a7f-46f6-9151-9f2d8d27ee39)
+
 
 
 <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="350"  alt="coding" align="right"/>
