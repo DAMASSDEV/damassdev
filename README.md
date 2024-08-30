@@ -3,7 +3,8 @@
 <br />
 <h1 align="center">Hi 👋, I'm Danar Mas Saputra</h1> 
 <h3 align="center">A passionate full Stack developer and Game developer from Indonesia</h3>
-![LogoGameDAMASSDEV](https://github.com/user-attachments/assets/d4ae7d67-70c2-4acd-923f-f20694a5748e)
+![LogoGameDAMASSDEV-removebg-preview](https://github.com/user-attachments/assets/17d5aa49-f3b4-4f39-a23a-16616c470655)
+
 
 
 <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="350"  alt="coding" align="right"/>
