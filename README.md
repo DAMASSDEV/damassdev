@@ -5,8 +5,8 @@
 <h3 align="center">A passionate full Stack developer and Game developer from Indonesia</h3>
 
 
+![Logoku](https://github.com/user-attachments/assets/24458800-6eac-416c-82d0-8a17cf1e7cb4)
 
-![Logo](https://github.com/user-attachments/assets/1fb50a05-c763-485a-99dc-ce4d0d6104a5)
 
 
 <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="350"  alt="coding" align="right"/>
