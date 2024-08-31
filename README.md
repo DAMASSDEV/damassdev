@@ -12,7 +12,7 @@
 <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="350"  alt="coding" align="right"/>
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=damassdev&label=Profile%20views&color=00d1a7&style=plastic" alt="damassdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="600" src="https://github-profile-trophy.vercel.app/?username=damassdev" alt="damassdev" /></a> </p>
+
 
 - 🔭 I’m currently working on **coming soon**
 
