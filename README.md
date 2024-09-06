@@ -10,28 +10,19 @@
 
 
 <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="350"  alt="coding" align="right"/>
-<p align="left"> <img  src="https://komarev.com/ghpvc/?username=damassdev&label=Profile%20views&color=00d1a7&style=plastic" alt="damassdev" /> </p>
 
 
 
-- 🔭 I’m currently working on **coming soon**
 
-- 🌱 I’m currently learning **Javascript**
 
-- 👯 I’m looking to collaborate on **coming soon**
 
-- 🤝 I’m looking for help with **coming soon**
-
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
  - 📝 I regularly write articles on [https://damassdev.blogspot.com/](https://damassdev.blogspot.com/)
 
 - 💬 Ask me about **Python, Streamlit, Pygame**
 
 - 📫 How to reach me **damassdev@gmail.com**
 
-- 📄 Know about my experiences [coming soon](coming soon)
 
-- ⚡ Fun fact **I like cat chicken**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
