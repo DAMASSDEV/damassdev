@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=200&color=F79F4B&multiline=true&random=false&width=436&height=91&lines=Assalamualaikum+%F0%9F%99%8F;%22Keep+Moving+and+Learn%22)](https://git.io/typing-svg)
-<br />
-<br />
 <h1 align="center">Hi 👋, I'm Danar Mas Saputra</h1> 
+<hr/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=200&color=F79F4B&multiline=true&random=false&width=436&height=91&lines=Assalamualaikum+%F0%9F%99%8F;%22Keep+Moving+and+Learn%22)](https://git.io/typing-svg)
+<hr/>
 <h3 align="center">A passionate full Stack developer and Game developer from Indonesia</h3>
 
 
