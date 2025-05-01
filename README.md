@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=200&color=F79F4B&multiline=true&random=false&width=436&height=91&lines=Assalamualaikum+%F0%9F%99%8F;%22Keep+Moving+and+Learn%22)](https://git.io/typing-svg)
 
 <hr/>
-<img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="350"  alt="coding" align="center"/>
+<img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="350"  alt="coding" align="center" />
 
 ## 📫 My More Information
 
