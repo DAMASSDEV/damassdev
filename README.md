@@ -2,7 +2,7 @@
 
 <p align="center">
   Assalamualaikum 👋 &nbsp;·&nbsp; <b>AI Engineer</b> &nbsp;&amp;&nbsp; <b>Full-Stack Web / Mobile Developer</b><br>
-  Informatics @ Universitas Gunadarma &nbsp;·&nbsp; Depok, Indonesia
+  Informatics @ Universitas Gunadarma &nbsp;·&nbsp; Bogor, Indonesia
 </p>
 
 <p align="center">
